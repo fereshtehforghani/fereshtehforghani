@@ -1,7 +1,7 @@
 ### Hi there 👋
-- I’m Fereshteh Forghani (@fereshtehforghani)
+- ✨ I’m Fereshteh Forghani (@fereshtehforghani)
 - 👀 I’m interested in generative modeling, computer vision, and machine learning.
-- 🌱 I’m currently a MSc student at York University working on diffusion models under the supervision of Dr. Marcus Brubaker.
+- 📚 I’m currently a MSc student at York University working on diffusion models under the supervision of Dr. Marcus Brubaker.
 
 <!--
 **fereshtehforghani/fereshtehforghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
