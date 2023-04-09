@@ -1,7 +1,8 @@
 ## Hey this is Fereshteh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-- 👀 I’m interested in generative modeling, computer vision, and machine learning.
 - 📚 I’m currently a MSc student at York University working on diffusion models under the supervision of Dr. Marcus Brubaker.
+- 
+- I am Fereshteh Forghani, a CS MSc student at York University.I’m interested in generative modeling, computer vision, and machine learning. I am also a research assistant supervised by <a href="https://mbrubake.github.io/" class="">Marcus A. Brubaker</a>, where I focused in applications of generative models, especially diffusion models, in compiter vision. With my strong background in deep learning and passion for developing innovative solutions, I am sure to make a significant impact in his field.
 
 My github account information is as follow:
 
@@ -15,6 +16,20 @@ My github account information is as follow:
         </td>
     </tr>
 </table>
+
+
+---------------------
+### Languages and Tools I use:
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+---------------------
 
 ## Contact Me
 
@@ -32,17 +47,3 @@ Feel free contacting me via the following links:
         </a>
 </div>
 
-<!--
-**fereshtehforghani/fereshtehforghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
