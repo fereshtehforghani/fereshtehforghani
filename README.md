@@ -1,8 +1,6 @@
 ## Hey this is Fereshteh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-- 📚 I’m currently a MSc student at York University working on diffusion models under the supervision of Dr. Marcus Brubaker.
-- 
-- I am Fereshteh Forghani, a CS MSc student at York University.I’m interested in generative modeling, computer vision, and machine learning. I am also a research assistant supervised by <a href="https://mbrubake.github.io/" class="">Marcus A. Brubaker</a>, where I focused in applications of generative models, especially diffusion models, in compiter vision. With my strong background in deep learning and passion for developing innovative solutions, I am sure to make a significant impact in his field.
+I am Fereshteh Forghani, a CS MSc student at York University.I’m interested in generative modeling, computer vision, and machine learning. I am also a research assistant supervised by <a href="https://mbrubake.github.io/" class="">Marcus A. Brubaker</a>, where I focused in applications of generative models, especially diffusion models, in compiter vision. With my strong background in deep learning and passion for developing innovative solutions, I am sure to make a significant impact in his field.
 
 My github account information is as follow:
 
